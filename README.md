@@ -8,22 +8,14 @@ I enjoy creating modern, responsive, and scalable interfaces — from design to 
 - 🔭 I’m currently working on: a business website for my freelance brand, built in **Next.js**
 - 🌱 I’m currently learning: more advanced **React** and **Next.js**
 - 💼 I’m looking for a full-time position as a **Frontend Developer**
-- 👨‍🎨 I care about: component reusability, design systems, accessibility (WCAG), and code readability
 - ⚡ Fun fact: I love cats, painting, psychology-inspired design, and self-growth books
 
 ## 🧠 Tech Stack
 
-**Languages & Frameworks**  
-- TypeScript / JavaScript
-- HTML / CSS / SCSS
-- React
-- Next.js 
-- Tailwind CSS
+- JavaScript / jQuery / TypeScript / React / Next.js 
+- HTML / CSS / SCSS / Tailwind CSS
 - AEM / Webflow / WordPress / Drupal
-
-**Tools**  
-- Git / GitHub / Bitbucket  
-- Jira / Trello / Confluence / Miro  
+- Git / Bitbucket / Jira / Trello / Confluence / Miro  
 - Figma / Adobe CC (Photoshop, Illustrator, InDesign, XD)  
 
 ## Contact
