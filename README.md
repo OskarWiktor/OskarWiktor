@@ -5,7 +5,7 @@ I enjoy creating modern, responsive, and scalable interfaces — from design to 
 
 ## 🔍 About Me
 
-- 🔭 I’m currently working on: a business website for my freelance brand, built in **Next.js**
+- 🔭 I’m currently working on: a business website for my freelance brand, built in **Next.js** https://www.arteonagency.pl/
 - 🌱 I’m currently learning: more advanced **React** and **Next.js**
 - 💼 I’m looking for a full-time position as a **Frontend Developer**
 - ⚡ Fun fact: I love cats, painting, psychology-inspired design, and self-growth books
