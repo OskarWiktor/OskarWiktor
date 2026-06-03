@@ -5,14 +5,17 @@ Beyond development, I'm interested in how technical decisions impact product gro
 Currently, I am also exploring backend technologies such as PHP and Laravel to better understand architectural decisions and the end-to-end process of building complex web applications.
 
 ## My skill set:
-#Programming
-JavaScript 4/5, TypeScript 4/5, React 4/5, Next.js 4/5,
-HTML 4/5, CSS 4/5, SCSS 3/5, Tailwind CSS 4/5,
-Vercel 3/5, Drupal 1/5,
-jQuery 1/5, PHP 1/5,
-#CMS
-Wordpress 4/5, AEM 3/5, Webflow 3/5, Drupal 2/5,
-#Tools:
-Git / Bitbucket / Jira / Trello / Confluence / Miro,
-#Design:
-Figma / Adobe CC (Photoshop, Illustrator, InDesign, XD)  
+Programming:
+- JavaScript 4/5, TypeScript 4/5, React 4/5, Next.js 4/5,
+- HTML 4/5, CSS 4/5, SCSS 3/5, Tailwind CSS 4/5,
+- Vercel 3/5, Drupal 1/5,
+- jQuery 1/5, PHP 1/5,
+
+CMS
+- Wordpress 4/5, AEM 3/5, Webflow 3/5, Drupal 2/5,
+
+Tools:
+- Git / Bitbucket / Jira / Trello / Confluence / Miro,
+
+Design:
+- Figma / Adobe CC (Photoshop, Illustrator, InDesign, XD)  
