@@ -12,3 +12,5 @@ Currently, I am also exploring backend technologies such as PHP and Laravel to b
 - Wordpress 4/5, AEM 3/5, Webflow 3/5, Drupal 2/5,
 - Git / Bitbucket / Jira / Trello / Confluence / Miro,
 - Figma / Adobe CC (Photoshop, Illustrator, InDesign, XD)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OskarWiktor)
