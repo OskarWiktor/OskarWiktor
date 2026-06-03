@@ -18,10 +18,10 @@ Currently, I am also expanding my knowledge of backend and devops technologies â
 
 
 ## My skill set:
-- JavaScript 4/5, TypeScript 4/5, React 4/5, Next.js 4/5,
+- JavaScript 4/5, TypeScript 4/5, React 4/5, Next.js 4/5, jQuery 1/5,
 - HTML 4/5, CSS 4/5, SCSS 3/5, Tailwind CSS 4/5,
 - Vercel 3/5, Docker 1/5,
-- jQuery 1/5, PHP 1/5,
+- PHP 1/5, Laravel 1/5,
 - Wordpress 4/5, AEM 3/5, Webflow 3/5, Drupal 2/5,
 - Git / Bitbucket / Jira / Trello / Confluence / Miro,
 - Figma / Adobe CC (Photoshop, Illustrator, XD)  
