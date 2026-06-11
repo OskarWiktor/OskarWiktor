@@ -20,9 +20,8 @@ Currently, I am also expanding my knowledge of backend and devops technologies â
 ## My skill set:
 - JavaScript, TypeScript, React, Next.js, jQuery,
 - HTML, CSS, SCSS, Tailwind CSS,
-- Vercel, Docker (basics),
-- PHP (basics),
-- Wordpress, AEM, Webflow, Drupal,
+- Docker (basics), PHP (basics),
+- Wordpress, AEM, Webflow, Drupal, Vercel, 
 - Git / Bitbucket / Jira / Trello / Confluence / Miro,
 - Figma / Adobe CC (Photoshop, Illustrator, XD)  
 
