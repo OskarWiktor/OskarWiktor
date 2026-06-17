@@ -1,7 +1,7 @@
 Hi, my name is Oskar and I'm a Frontend / React Developer from Poland with a background in graphic design.
 I specialize in building modern, server-rendered web applications in the React ecosystem — primarily with Next.js, TypeScript and Tailwind CSS — with a focus on SEO, CWV, and UX as well as developer experience through clean architecture and easy to read code.
 Beyond development, I'm interested in how technical decisions impact product growth, search visibility and long-term scalability.
-Currently, I am also expanding my knowledge of backend technologies and AI Engineering that can be implemented in Vercel / Next.js / React ecosystem.
+Currently, I am also expanding my knowledge of backend and AI Engineering that can be implemented in Vercel / Next.js / React ecosystem.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
